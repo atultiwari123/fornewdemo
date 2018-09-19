@@ -1,0 +1,392 @@
+[
+    [
+        "D:\\myproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274550057,
+            "changeTime": 1537274550057,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274550057,
+            "changeTime": 1537274550057,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274694234,
+            "changeTime": 1537274694234,
+            "contentHash": "d15ac897a01a796e66358887ed4e1ac9fd63f6d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274550057,
+            "changeTime": 1537274550057,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274694196,
+            "changeTime": 1537274694196,
+            "contentHash": "28ce4499cdf4fed63cb49f65d38259b6f6585468",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\ChangePasswordController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\ChangePasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 467,
+            "modifiedTime": 1537274694169,
+            "changeTime": 1537274694169,
+            "contentHash": "769eaed52f3c934b7ad9b57adcb55a922c257168",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\ChangePasswordController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\ChangePasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537274694167,
+            "changeTime": 1537274694167,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\CommunitiesLandingController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\CommunitiesLandingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 369,
+            "modifiedTime": 1537274694176,
+            "changeTime": 1537274694176,
+            "contentHash": "f0aa4e4a73ec760302173389f42991266a807010",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\CommunitiesLandingController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\CommunitiesLandingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537274694174,
+            "changeTime": 1537274694174,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\CommunitiesLandingControllerTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\CommunitiesLandingControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 795,
+            "modifiedTime": 1537274694181,
+            "changeTime": 1537274694181,
+            "contentHash": "9fc17f3ba0a097f66fc1467c82c8e1d22398b48f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\CommunitiesLandingControllerTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\CommunitiesLandingControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537274694179,
+            "changeTime": 1537274694179,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\EmailManager.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\EmailManager.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 431,
+            "modifiedTime": 1537274694185,
+            "changeTime": 1537274694185,
+            "contentHash": "5cceda60b2d845a73baae994f9b0430bb1bb5c1d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\EmailManager.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\EmailManager.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537274694183,
+            "changeTime": 1537274694183,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\LightningForgotPasswordController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\LightningForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1038,
+            "modifiedTime": 1537274694188,
+            "changeTime": 1537274694188,
+            "contentHash": "326dc096dacead23bcce832cafa8046eeff5821c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\LightningForgotPasswordController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\LightningForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537274694187,
+            "changeTime": 1537274694187,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\LightningForgotPasswordControllerTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\LightningForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1332,
+            "modifiedTime": 1537274694192,
+            "changeTime": 1537274694192,
+            "contentHash": "21d44e671389d01c2035cb54f2a3b22777492713",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\LightningForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\LightningForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537274694191,
+            "changeTime": 1537274694191,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\LightningLoginFormController.cls",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\LightningLoginFormController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1972,
+            "modifiedTime": 1537274694196,
+            "changeTime": 1537274694196,
+            "contentHash": "f1fd99eb82c4744783af85a86be464c1f8e321ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\classes\\LightningLoginFormController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\classes\\LightningLoginFormController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537274694195,
+            "changeTime": 1537274694195,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274694231,
+            "changeTime": 1537274694231,
+            "contentHash": "ff325cb88fd1a08d7f1faf3e0187331c07064241",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274694231,
+            "changeTime": 1537274694231,
+            "contentHash": "09e03bacfd1278fe09d1fd0f37896e0ec2f514af",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\objects\\Opportunity\\compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\objects\\Opportunity\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274694232,
+            "changeTime": 1537274694232,
+            "contentHash": "b9596b647223d2433fb11fbb9dfa1d107ddfb1fa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\objects\\Opportunity\\compactLayouts\\New_Oppty_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\objects\\Opportunity\\compactLayouts\\New_Oppty_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1537274694232,
+            "changeTime": 1537274694232,
+            "contentHash": "ec3446ed9582a9bef16d32115f2fda93ba8e0281",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537274694235,
+            "changeTime": 1537274694235,
+            "contentHash": "aa3c560b0c8abb553d2fb0a333cab4fd36797a7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject\\force-app\\main\\default\\permissionsets\\Temporary_Account_Edit.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject\\force-app\\main\\default\\permissionsets\\Temporary_Account_Edit.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1537274694236,
+            "changeTime": 1537274694236,
+            "contentHash": "da627b107bc517e7777b202450fd3cf003e67957",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\myproject",
+        {
+            "state": "n",
+            "sourcePath": "D:\\myproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537275117566,
+            "changeTime": 1537275117566,
+            "contentHash": "4b33dad5c5ff40e8aa2c11806f1b4211dd46113e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
